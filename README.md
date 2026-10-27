@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafay-ul-haq-b30885297"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjUiIGN5PSI0LjUiIHI9IjIuMyIvPjxyZWN0IHg9IjMiIHk9IjgiIHdpZHRoPSI0IiBoZWlnaHQ9IjEzIi8+PHBhdGggZD0iTTkgOGgzLjh2MS45Yy42LTEuMSAyLTIuMiA0LjEtMi4yIDQuMyAwIDUuMSAyLjggNS4xIDYuNVYyMWgtNHYtNmMwLTEuNSAwLTMuNC0yLjEtMy40UzEzIDEzLjIgMTMgMTQuOVYyMUg5eiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
-  <a href="mailto:rafayulhaq2002@outlook.com"><img src="https://img.shields.io/badge/Email%20Me-0078D4?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rafayulhaq2002@outlook.com"><img src="https://img.shields.io/badge/rafayulhaq2002%40outlook.com-0078D4?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email rafayulhaq2002@outlook.com" /></a>
 </p>
 
 ---
@@ -22,6 +22,7 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
 - 🏥 I've shipped software in **healthcare, payments and insurance**
 - 🤖 Currently learning **AI engineering**: LLMs, RAG, LangChain, LangGraph and vector databases
 - 🎓 **BS Computer Science**, FAST-NUCES Lahore (2025)
+- 📫 Reach me at **rafayulhaq2002@outlook.com**
 
 ---
 
