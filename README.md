@@ -96,37 +96,6 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/RAFAYULHAQ2003/BudgetBridge">💰 BudgetBridge</a></h3>
-      <p>Financial management platform for multi-company project budgeting: expense approvals, invoicing, timesheets and payroll, with role-based access control.</p>
-      <p><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/RAFAYULHAQ2003/Movie-Poster-Genre-Predict-Using-Convolutional-Neural-Network">🎬 Movie Genre Predictor</a></h3>
-      <p>Predicts a movie's genre from its poster using a convolutional neural network trained on poster images.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/CNN-Deep%20Learning-FF6F00?style=flat-square" alt="CNN" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/RAFAYULHAQ2003/Ruby-RPG-Fighting-Game">⚔️ Ruby RPG Fighting Game</a></h3>
-      <p>Text-based RPG with character creation, turn-based combat against random enemies, XP levelling, save/load and battle logs.</p>
-      <p><img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" /> <img src="https://img.shields.io/badge/OOP-555555?style=flat-square" alt="OOP" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/RAFAYULHAQ2003/Cyber-Security-University-Security-System-On-Cisco-Packet-Tracer">🔐 University Network Security</a></h3>
-      <p>Designed a university campus network in Cisco Packet Tracer and secured it with industry-standard security protocols.</p>
-      <p><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" /> <img src="https://img.shields.io/badge/Network%20Security-555555?style=flat-square" alt="Network Security" /></p>
-    </td>
-  </tr>
-</table>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="" />
 </p>
