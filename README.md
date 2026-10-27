@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**, with 2 years of experience taking applications from first commit to production.
+Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**, with 4+ years of experience taking applications from first commit to production.
 
 - ⚙️ I work across the stack: backend in **Ruby on Rails** and **Django**, mobile in **React Native**, and deployments on **AWS** and **Kubernetes**
 - 🏥 I've shipped software in **healthcare, payments and insurance**
@@ -91,16 +91,35 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
       <h3>Software Engineer</h3>
       <b><a href="https://devsinc.com">Devsinc Limited</a></b> &nbsp;|&nbsp; Lahore, Pakistan
     </td>
-    <td align="right" valign="top"><code>May 2025 – Present</code></td>
+    <td align="right" valign="top"><code>July 2022 – Present</code></td>
   </tr>
   <tr>
     <td colspan="2">
+      <b>🧭 Leadership &amp; Delivery</b>
       <ul>
-        <li><b>Engineer and maintain features</b> across three client products in <b>Ruby on Rails</b> and <b>Django</b>: a <b>healthcare payment system</b>, a <b>ticket booking platform</b> and <b>car insurance software</b>.</li>
-        <li><b>Own deployments end to end</b> for all three applications, containerizing them with <b>Docker</b> and releasing them to <b>AWS</b> and <b>Kubernetes</b>.</li>
-        <li><b>Work across the full delivery cycle</b>, from feature development to production rollout, in regulated healthcare and insurance domains.</li>
+        <li><b>Led and mentored a cross-functional team of 20+ developers</b>, building a culture of high-quality code through rigorous code reviews, design sessions and internal knowledge sharing.</li>
+        <li><b>Directed end-to-end delivery of 3+ high-impact backend projects</b> (healthcare payments, ticket booking and car insurance), from initial <b>PostgreSQL</b> schema design to production rollout and post-release monitoring.</li>
+        <li><b>Collaborated with Product, QA and Front-End teams</b> to define API contracts, versioning strategies and test data requirements in an Agile environment.</li>
+        <li><b>Tackled technical debt and root-caused production issues</b>, keeping a high bar for documentation and operational excellence.</li>
       </ul>
-      <img src="https://img.shields.io/badge/Ruby%20on%20Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square" alt="AWS" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+      <b>☁️ Cloud &amp; DevOps</b>
+      <ul>
+        <li><b>Architected and managed production-grade AWS environments</b> (ECS, EKS, Lambda) with <b>Terraform</b>, supporting high-traffic healthcare and enterprise applications.</li>
+        <li><b>Reduced deployment lead time by 45%</b> by redesigning the CI/CD architecture on <b>GitHub Actions</b> with automated and contract tests.</li>
+        <li><b>Optimized infrastructure cost and performance</b> by tuning PostgreSQL queries and indexes and using <b>CloudWatch</b> metrics for automated resource rightsizing.</li>
+      </ul>
+      <b>⚙️ Backend &amp; Distributed Systems</b>
+      <ul>
+        <li><b>Developed and optimized RESTful APIs</b> with <b>Python (FastAPI)</b> and <b>SQLAlchemy</b>, delivering scalable, secure data-access layers for complex backend services.</li>
+        <li><b>Designed high-throughput messaging backbones</b> on <b>AWS MSK (Kafka)</b> and <b>SQS</b>, with transaction management and full observability (logging, metrics, tracing).</li>
+      </ul>
+      <b>🔐 Security &amp; Compliance</b>
+      <ul>
+        <li><b>Strengthened HIPAA-aware security and compliance</b> by integrating <b>mTLS</b>, audit logging and secure file handling with encrypted storage.</li>
+        <li><b>Established a Zero-Trust networking model</b> using <b>IAM</b>, <b>VPC Reachability Analyzer</b> and <b>GuardDuty</b> across all backend services.</li>
+        <li><b>Streamlined secrets management</b> by migrating hard-coded credentials to <b>AWS Secrets Manager</b> and <b>HashiCorp Vault</b>, reducing credential exposure across the production fleet.</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square" alt="AWS" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" /> <img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" alt="Vault" />
     </td>
   </tr>
 </table>
@@ -116,12 +135,36 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
   <tr>
     <td colspan="2">
       <ul>
-        <li><b>Built the organization's first digital patient management system</b> end to end, from the mobile app to the admin dashboard, replacing the organization's manual record-keeping.</li>
+        <li><b>Built the organization's first digital patient management system</b> end to end, from the mobile app to the admin dashboard, replacing manual record-keeping.</li>
         <li><b>Developed a React Native Android app</b> covering patient registration, prescriptions, medicine dispensing and inventory management.</li>
         <li><b>Secured access with Google Authentication</b> and modelled patient, prescription and inventory records in <b>Firebase Firestore</b>.</li>
         <li><b>Delivered a Django admin panel</b> to monitor all app activity and generate graphs and reports for management, deployed on <b>Vercel</b>.</li>
       </ul>
       <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=white" alt="React Native" /> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" /> <img src="https://img.shields.io/badge/Google%20Auth-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Auth" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>Intern Software Engineer</h3>
+      <b>Confiz Limited</b> &nbsp;|&nbsp; Lahore, Pakistan
+    </td>
+    <td align="right" valign="top"><code>May 2020 – June 2022</code></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <ul>
+        <li><b>Developed and scaled backend services</b> in <b>Python</b> alongside a mobile app, contributing to a <b>25% increase in API throughput</b> for a major retail client.</li>
+        <li><b>Optimized PostgreSQL query performance</b>, cutting database CPU utilization by <b>40%</b> during peak hours.</li>
+        <li><b>Pioneered DevOps practices</b> on the team by containerizing legacy services with <b>Docker</b> and setting up the company's first automated <b>Jenkins</b> pipeline for backend builds.</li>
+        <li><b>Resolved 90% of recurring environment bugs</b> by introducing Infrastructure as Code with <b>Terraform</b> to keep Staging and Production consistent.</li>
+        <li><b>Deployed an observability stack</b> with <b>Prometheus</b>, <b>Loki</b> and <b>Grafana</b>, reducing Mean Time to Detection (MTTD) for application errors by <b>50%</b>.</li>
+        <li><b>Automated static analysis in CI/CD</b> with <b>Brakeman</b> and <b>Trivy</b>, catching <b>30+ critical security vulnerabilities</b> at build time.</li>
+        <li><b>Designed a resilient data layer</b> with PostgreSQL read replicas and <b>Redis</b> caching, speeding up retrieval of frequently accessed retail inventory by <b>60%</b>.</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" /> <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=trivy&logoColor=white" alt="Trivy" />
     </td>
   </tr>
 </table>
