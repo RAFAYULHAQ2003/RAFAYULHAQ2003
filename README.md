@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**, with 4+ years of experience taking applications from first commit to production.
+Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**, with 3+ years of experience taking applications from first commit to production.
 
 - ⚙️ I work across the stack: backend in **Ruby on Rails** and **Django**, mobile in **React Native**, and deployments on **AWS** and **Kubernetes**
 - 🏥 I've shipped software in **healthcare, payments and insurance**
