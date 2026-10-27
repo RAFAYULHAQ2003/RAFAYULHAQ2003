@@ -171,6 +171,55 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
 
 ---
 
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td>
+      <h3>🅿️ ParkGuard</h3>
+      <i>Multi-tenant parking protection &amp; claims management platform</i>
+      <p>An enterprise-grade platform that modernizes how parking operators safeguard vehicles, manage risk and serve customers, covering the full vehicle-protection lifecycle from plan assignment to automated claim processing, financial reporting and secure document handling.</p>
+      <b>Key contributions</b>
+      <ul>
+        <li><b>Implemented a role-driven, multi-tenant architecture</b> connecting partners, subsidiaries, administrators and customers, governed by strict <b>Role-Based Access Control (RBAC)</b>.</li>
+        <li><b>Built the Partner and Admin portals</b> with <b>React</b>, <b>Tailwind CSS</b> and <b>NextUI</b>, delivering dynamic claim forms, advanced search and real-time dashboard analytics.</li>
+        <li><b>Developed the core claim management pipeline</b>: defined the claim lifecycle, supported photo evidence and generated secure claim records in ZIP/PDF format.</li>
+        <li><b>Built the backend</b> with <b>Django</b> and <b>PostgreSQL</b>, using <b>Elasticsearch</b> for full-text search and fast navigation across large datasets.</li>
+        <li><b>Automated critical background work</b> with <b>Celery</b> and <b>Redis</b>: email notifications, KPI report generation and Elasticsearch indexing.</li>
+        <li><b>Enforced enterprise-grade security</b> with <b>MFA</b> for privileged users, API key authentication, audit logging and encrypted file storage on <b>AWS S3</b>.</li>
+        <li><b>Deployed containerized backend services on AWS EKS</b> with a <b>Grafana</b> monitoring stack tracking cluster metrics, node health and microservice utilization.</li>
+        <li><b>Set up frontend continuous deployment</b> on <b>Vercel</b> with a global CDN for rapid releases and low worldwide latency.</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/NextUI-000000?style=flat-square" alt="NextUI" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" /> <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/AWS%20EKS%20%7C%20S3-FF9900?style=flat-square" alt="AWS EKS %7C S3" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>🏥 PAHCHAAN Healthcare</h3>
+      <i>AI-driven clinic management &amp; analytics system</i>
+      <p>A comprehensive clinic management system that streamlines patient care from registration to medication dispensing, combining clinical workflows with data analysis to track health trends and optimize inventory under strict healthcare security standards.</p>
+      <b>Key contributions</b>
+      <ul>
+        <li><b>Developed a multi-module web application</b> with <b>Django</b> and <b>React</b>, coordinating doctors, dispensers and administrators in one platform.</li>
+        <li><b>Engineered secure Patient Registration and Prescription modules</b> with real-time data entry and retrieval on <b>PostgreSQL (AWS RDS)</b>.</li>
+        <li><b>Implemented a pharmacy Inventory Control System</b> with automated low-stock alerts and expiry tracking to minimize waste.</li>
+        <li><b>Built an AI-based data analysis engine</b> that traces trends in historical patient data, identifying seasonal disease outbreaks and demographic shifts for resource planning.</li>
+        <li><b>Architected the infrastructure</b> on <b>AWS ECS</b> for containerized services and <b>AWS Lambda</b> for serverless report generation and background analytics.</li>
+        <li><b>Secured the platform</b> with <b>AWS API Gateway</b> request throttling and granular <b>IAM</b>-based RBAC, so sensitive patient data reaches only authorized staff.</li>
+        <li><b>Managed medical documents</b> on <b>AWS S3</b> with server-side encryption and strict lifecycle policies.</li>
+        <li><b>Built a full CI/CD pipeline</b> on <b>GitHub Actions</b> with automated unit and integration tests on every deployment.</li>
+        <li><b>Monitored logs and system metrics</b> with <b>AWS CloudWatch</b> to catch performance bottlenecks and security anomalies early.</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/AWS%20ECS%20%7C%20Lambda%20%7C%20RDS%20%7C%20S3-FF9900?style=flat-square" alt="AWS ECS %7C Lambda %7C RDS %7C S3" /> <img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square" alt="API Gateway" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square" alt="CloudWatch" /> <img src="https://img.shields.io/badge/AI%20Analytics-6E40C9?style=flat-square" alt="AI Analytics" />
+    </td>
+  </tr>
+</table>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="" />
 </p>
