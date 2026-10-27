@@ -85,14 +85,46 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
 
 ## 💼 Experience
 
-**Software Engineer** · *Devsinc Limited* · Lahore · `May 2025 – Present`
-- Develop and maintain features for three client applications built with **Ruby on Rails** and **Django**: a healthcare payment system, a ticket booking platform and car insurance software
-- Containerize these applications with **Docker** and deploy them on **AWS** and **Kubernetes**
+<table>
+  <tr>
+    <td>
+      <h3>Software Engineer</h3>
+      <b><a href="https://devsinc.com">Devsinc Limited</a></b> &nbsp;|&nbsp; Lahore, Pakistan
+    </td>
+    <td align="right" valign="top"><code>May 2025 – Present</code></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <ul>
+        <li><b>Engineer and maintain features</b> across three client products in <b>Ruby on Rails</b> and <b>Django</b>: a <b>healthcare payment system</b>, a <b>ticket booking platform</b> and <b>car insurance software</b>.</li>
+        <li><b>Own deployments end to end</b> for all three applications, containerizing them with <b>Docker</b> and releasing them to <b>AWS</b> and <b>Kubernetes</b>.</li>
+        <li><b>Work across the full delivery cycle</b>, from feature development to production rollout, in regulated healthcare and insurance domains.</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Ruby%20on%20Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square" alt="AWS" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    </td>
+  </tr>
+</table>
 
-**Software Engineer** · *PAHCAAN* · Lahore · `Sep 2024 – May 2025`
-- Built a **React Native** Android app, the organization's first digital system for patient registration, prescriptions, medicine dispensing and inventory
-- Implemented **Google Authentication** with **Firebase Firestore** for patient, prescription and inventory records
-- Developed a **Django** admin panel with reports and graphs for management, deployed on **Vercel**
+<table>
+  <tr>
+    <td>
+      <h3>Software Engineer</h3>
+      <b>PAHCAAN</b> &nbsp;|&nbsp; Lahore, Pakistan
+    </td>
+    <td align="right" valign="top"><code>Sep 2024 – May 2025</code></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <ul>
+        <li><b>Built the organization's first digital patient management system</b> end to end, from the mobile app to the admin dashboard, replacing the organization's manual record-keeping.</li>
+        <li><b>Developed a React Native Android app</b> covering patient registration, prescriptions, medicine dispensing and inventory management.</li>
+        <li><b>Secured access with Google Authentication</b> and modelled patient, prescription and inventory records in <b>Firebase Firestore</b>.</li>
+        <li><b>Delivered a Django admin panel</b> to monitor all app activity and generate graphs and reports for management, deployed on <b>Vercel</b>.</li>
+      </ul>
+      <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=white" alt="React Native" /> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" /> <img src="https://img.shields.io/badge/Google%20Auth-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Auth" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+    </td>
+  </tr>
+</table>
 
 ---
 
