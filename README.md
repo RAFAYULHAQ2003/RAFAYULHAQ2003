@@ -95,23 +95,6 @@ I'm a **Software Engineer** based in **Lahore, Pakistan** with **2 years of expe
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RAFAYULHAQ2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFAYULHAQ2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RAFAYULHAQ2003&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAFAYULHAQ2003&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
-</p>
-
----
-
 <p align="center">
   <i>“Build it, ship it, then make it better.”</i>
 </p>
