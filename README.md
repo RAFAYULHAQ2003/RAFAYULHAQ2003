@@ -148,7 +148,7 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
 <table>
   <tr>
     <td>
-      <h3>Intern Software Engineer</h3>
+      <h3>Software Engineer</h3>
       <b>Confiz Limited</b> &nbsp;|&nbsp; Lahore, Pakistan
     </td>
     <td align="right" valign="top"><code>May 2020 – June 2022</code></td>
@@ -156,7 +156,7 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
   <tr>
     <td colspan="2">
       <ul>
-        <li><b>Developed and scaled backend services</b> in <b>Python</b> alongside a mobile app, contributing to a <b>25% increase in API throughput</b> for a major retail client.</li>
+        <li><b>Developed and scaled backend services</b> in <b>Python</b> and <b>Go</b>, contributing to a <b>25% increase in API throughput</b> for a major retail client.</li>
         <li><b>Optimized PostgreSQL query performance</b>, cutting database CPU utilization by <b>40%</b> during peak hours.</li>
         <li><b>Pioneered DevOps practices</b> on the team by containerizing legacy services with <b>Docker</b> and setting up the company's first automated <b>Jenkins</b> pipeline for backend builds.</li>
         <li><b>Resolved 90% of recurring environment bugs</b> by introducing Infrastructure as Code with <b>Terraform</b> to keep Staging and Production consistent.</li>
@@ -164,7 +164,7 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
         <li><b>Automated static analysis in CI/CD</b> with <b>Brakeman</b> and <b>Trivy</b>, catching <b>30+ critical security vulnerabilities</b> at build time.</li>
         <li><b>Designed a resilient data layer</b> with PostgreSQL read replicas and <b>Redis</b> caching, speeding up retrieval of frequently accessed retail inventory by <b>60%</b>.</li>
       </ul>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" /> <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=trivy&logoColor=white" alt="Trivy" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" /> <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=trivy&logoColor=white" alt="Trivy" />
     </td>
   </tr>
 </table>
