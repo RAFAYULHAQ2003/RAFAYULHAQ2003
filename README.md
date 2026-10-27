@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**, with 4+ years of experience taking applications from first commit to production.
+Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**, with 6+ years of experience taking applications from first commit to production.
 
 - ⚙️ I work across the stack: backend in **Ruby on Rails** and **Django**, mobile in **React Native**, and deployments on **AWS** and **Kubernetes**
 - 🏥 I've shipped software in **healthcare, payments and insurance**
@@ -31,7 +31,7 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
 <table align="center">
   <tr>
     <td align="center" width="170"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,ruby,js&theme=dark" alt="Python, Ruby, JavaScript" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python,ruby,go,js&theme=dark" alt="Python, Ruby, Go, JavaScript" /></td>
   </tr>
   <tr>
     <td align="center"><b>Frameworks</b></td>
@@ -65,7 +65,7 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
 
 | Area | Skills |
 |---|---|
-| **Languages** | Ruby, Python, JavaScript, SQL |
+| **Languages** | Ruby, Python, Go, JavaScript, SQL |
 | **Frameworks & APIs** | Ruby on Rails, Django, FastAPI, React, React Native, RESTful APIs |
 | **Databases** | PostgreSQL, MySQL, MongoDB, Firebase Firestore |
 | **AWS** | EC2, ECS, EKS, Lambda, S3, EBS, ELB, RDS, Aurora, VPC, VPC Reachability Analyzer, CloudFront, Route 53, Elastic Beanstalk, IAM, KMS, Secrets Manager, CloudWatch |
@@ -89,12 +89,11 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
   <tr>
     <td>
       <h3>Software Engineer</h3>
-      <b><a href="https://devsinc.com">Devsinc Limited</a></b> &nbsp;|&nbsp; Lahore, Pakistan
+      🏢 <b><a href="https://devsinc.com">Devsinc Limited</a></b> &nbsp;•&nbsp; 📍 Lahore, Pakistan &nbsp;•&nbsp; 🗓️ <code>July 2022 – Present</code>
     </td>
-    <td align="right" valign="top"><code>July 2022 – Present</code></td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td>
       <b>🧭 Leadership &amp; Delivery</b>
       <ul>
         <li><b>Led and mentored a cross-functional team of 20+ developers</b>, building a culture of high-quality code through rigorous code reviews, design sessions and internal knowledge sharing.</li>
@@ -119,7 +118,7 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
         <li><b>Established a Zero-Trust networking model</b> using <b>IAM</b>, <b>VPC Reachability Analyzer</b> and <b>GuardDuty</b> across all backend services.</li>
         <li><b>Streamlined secrets management</b> by migrating hard-coded credentials to <b>AWS Secrets Manager</b> and <b>HashiCorp Vault</b>, reducing credential exposure across the production fleet.</li>
       </ul>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square" alt="AWS" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" /> <img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" alt="Vault" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square" alt="AWS" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Kafka-4B4B4B?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" /> <img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=vault&logoColor=black" alt="Vault" />
     </td>
   </tr>
 </table>
@@ -128,19 +127,18 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
   <tr>
     <td>
       <h3>Software Engineer</h3>
-      <b>PAHCAAN</b> &nbsp;|&nbsp; Lahore, Pakistan
+      🏢 <b>PAHCAAN</b> &nbsp;•&nbsp; 📍 Lahore, Pakistan &nbsp;•&nbsp; 🗓️ <code>Sep 2024 – May 2025</code>
     </td>
-    <td align="right" valign="top"><code>Sep 2024 – May 2025</code></td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td>
       <ul>
         <li><b>Built the organization's first digital patient management system</b> end to end, from the mobile app to the admin dashboard, replacing manual record-keeping.</li>
         <li><b>Developed a React Native Android app</b> covering patient registration, prescriptions, medicine dispensing and inventory management.</li>
         <li><b>Secured access with Google Authentication</b> and modelled patient, prescription and inventory records in <b>Firebase Firestore</b>.</li>
         <li><b>Delivered a Django admin panel</b> to monitor all app activity and generate graphs and reports for management, deployed on <b>Vercel</b>.</li>
       </ul>
-      <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=white" alt="React Native" /> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" /> <img src="https://img.shields.io/badge/Google%20Auth-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Auth" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/React%20Native-3A3F4B?style=flat-square&logo=react&logoColor=white" alt="React Native" /> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" /> <img src="https://img.shields.io/badge/Google%20Auth-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Auth" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/Vercel-4B4B4B?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
     </td>
   </tr>
 </table>
@@ -149,12 +147,11 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
   <tr>
     <td>
       <h3>Software Engineer</h3>
-      <b>Confiz Limited</b> &nbsp;|&nbsp; Lahore, Pakistan
+      🏢 <b>Confiz Limited</b> &nbsp;•&nbsp; 📍 Lahore, Pakistan &nbsp;•&nbsp; 🗓️ <code>May 2020 – June 2022</code>
     </td>
-    <td align="right" valign="top"><code>May 2020 – June 2022</code></td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td>
       <ul>
         <li><b>Developed and scaled backend services</b> in <b>Python</b> and <b>Go</b>, contributing to a <b>25% increase in API throughput</b> for a major retail client.</li>
         <li><b>Optimized PostgreSQL query performance</b>, cutting database CPU utilization by <b>40%</b> during peak hours.</li>
@@ -190,7 +187,7 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
         <li><b>Deployed containerized backend services on AWS EKS</b> with a <b>Grafana</b> monitoring stack tracking cluster metrics, node health and microservice utilization.</li>
         <li><b>Set up frontend continuous deployment</b> on <b>Vercel</b> with a global CDN for rapid releases and low worldwide latency.</li>
       </ul>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/NextUI-000000?style=flat-square" alt="NextUI" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" /> <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/AWS%20EKS%20%7C%20S3-FF9900?style=flat-square" alt="AWS EKS %7C S3" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/React-3A3F4B?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/NextUI-4B4B4B?style=flat-square" alt="NextUI" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" /> <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/AWS%20EKS%20%7C%20S3-FF9900?style=flat-square" alt="AWS EKS %7C S3" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" /> <img src="https://img.shields.io/badge/Vercel-4B4B4B?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
     </td>
   </tr>
 </table>
@@ -213,7 +210,7 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
         <li><b>Built a full CI/CD pipeline</b> on <b>GitHub Actions</b> with automated unit and integration tests on every deployment.</li>
         <li><b>Monitored logs and system metrics</b> with <b>AWS CloudWatch</b> to catch performance bottlenecks and security anomalies early.</li>
       </ul>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/AWS%20ECS%20%7C%20Lambda%20%7C%20RDS%20%7C%20S3-FF9900?style=flat-square" alt="AWS ECS %7C Lambda %7C RDS %7C S3" /> <img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square" alt="API Gateway" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square" alt="CloudWatch" /> <img src="https://img.shields.io/badge/AI%20Analytics-6E40C9?style=flat-square" alt="AI Analytics" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/React-3A3F4B?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/AWS%20ECS%20%7C%20Lambda%20%7C%20RDS%20%7C%20S3-FF9900?style=flat-square" alt="AWS ECS %7C Lambda %7C RDS %7C S3" /> <img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square" alt="API Gateway" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square" alt="CloudWatch" /> <img src="https://img.shields.io/badge/AI%20Analytics-6E40C9?style=flat-square" alt="AI Analytics" />
     </td>
   </tr>
 </table>
