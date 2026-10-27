@@ -29,28 +29,56 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
 
 <table align="center">
   <tr>
-    <td align="center" width="150"><b>Languages</b></td>
+    <td align="center" width="170"><b>Languages</b></td>
     <td><img src="https://skillicons.dev/icons?i=python,ruby,js&theme=dark" alt="Python, Ruby, JavaScript" /></td>
   </tr>
   <tr>
     <td align="center"><b>Frameworks</b></td>
-    <td><img src="https://skillicons.dev/icons?i=rails,django,react&theme=dark" alt="Ruby on Rails, Django, React Native" /></td>
+    <td><img src="https://skillicons.dev/icons?i=rails,django,fastapi,react&theme=dark" alt="Ruby on Rails, Django, FastAPI, React" /></td>
   </tr>
   <tr>
     <td align="center"><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=dark" alt="PostgreSQL, MySQL, Firebase" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Firebase" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Cloud &amp; DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,vercel&theme=dark" alt="AWS, Azure, Docker, Kubernetes, Linux, Vercel" /></td>
+    <td align="center"><b>Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel&theme=dark" alt="AWS, GCP, Azure, Vercel" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps &amp; CI/CD</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,gitlab&theme=dark" alt="Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions, GitLab CI" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Observability &amp; Messaging</b></td>
+    <td><img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kafka&theme=dark" alt="Prometheus, Grafana, ELK Stack, Kafka" /></td>
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,postman,jira,vscode&theme=dark" alt="Git, GitHub, Postman, Jira, VS Code" /></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,git,github,bitbucket,postman,vscode&theme=dark" alt="Linux, Git, GitHub, Bitbucket, Postman, VS Code" /></td>
   </tr>
 </table>
 
-<p align="center"><sub>AWS services: EC2 · ECS · EKS · S3 · EBS · ELB</sub></p>
+<details>
+<summary><b>📋 Full skill breakdown</b></summary>
+<br />
+
+| Area | Skills |
+|---|---|
+| **Languages** | Ruby, Python, JavaScript, SQL |
+| **Frameworks & APIs** | Ruby on Rails, Django, FastAPI, React, React Native, RESTful APIs |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Firebase Firestore |
+| **AWS** | EC2, ECS, EKS, Lambda, S3, EBS, ELB, RDS, Aurora, VPC, VPC Reachability Analyzer, CloudFront, Route 53, Elastic Beanstalk, IAM, KMS, Secrets Manager, CloudWatch |
+| **GCP** | Cloud Run, Cloud Build, Cloud Storage, IAM, VPC Peering |
+| **Azure** | Virtual Machines, App Service, Azure Functions, Blob Storage, Azure Database for PostgreSQL, VNet, Azure DNS, Front Door, Microsoft Entra ID, Key Vault, Azure Monitor, Azure DevOps |
+| **Containers & Orchestration** | Docker, Kubernetes, Helm, Amazon EKS, GKE, AKS, Amazon ECS |
+| **CI/CD** | Jenkins, GitHub Actions, GitLab CI, CircleCI |
+| **Infrastructure as Code** | Terraform, AWS CloudFormation, Ansible |
+| **Security & Compliance** | Trivy, Cosign, mTLS, HashiCorp Vault, VPNs, OWASP ZAP, Brakeman, AWS GuardDuty, AWS Inspector, AWS CloudTrail |
+| **Monitoring & Observability** | Prometheus, Grafana, Loki, ELK Stack, OpenTelemetry, Datadog, Kiali |
+| **Messaging & Streaming** | Kafka, AWS SQS, AWS SNS |
+| **Tools & Platforms** | Linux, Git, GitHub, GitLab, Bitbucket, Jira, ClickUp, Postman, VS Code |
+
+</details>
 
 ---
 
