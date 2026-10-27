@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**, with 6+ years of experience taking applications from first commit to production.
+Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**, with 4+ years of experience taking applications from first commit to production.
 
 - ⚙️ I work across the stack: backend in **Ruby on Rails** and **Django**, mobile in **React Native**, and deployments on **AWS** and **Kubernetes**
 - 🏥 I've shipped software in **healthcare, payments and insurance**
@@ -146,7 +146,7 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
 <table>
   <tr>
     <td>
-      <h3>Software Engineer</h3>
+      <h3>Intern Software Engineer</h3>
       🏢 <b><a href="https://www.confiz.com/">Confiz Limited</a></b> &nbsp;•&nbsp; 📍 Lahore, Pakistan &nbsp;•&nbsp; 🗓️ <code>May 2020 – June 2022</code>
     </td>
   </tr>
@@ -175,7 +175,6 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
     <td>
       <h3>🅿️ <a href="https://www.parkguard.com/">ParkGuard</a></h3>
       <i>Multi-tenant parking protection &amp; claims management platform</i>
-      <p><a href="https://www.parkguard.com/"><img src="https://img.shields.io/badge/Live%20Site-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site" /></a></p>
       <p>An enterprise-grade platform that modernizes how parking operators safeguard vehicles, manage risk and serve customers, covering the full vehicle-protection lifecycle from plan assignment to automated claim processing, financial reporting and secure document handling.</p>
       <b>Key contributions</b>
       <ul>
@@ -198,7 +197,6 @@ Software Engineer at **[Devsinc](https://devsinc.com)** in **Lahore, Pakistan**,
     <td>
       <h3>🏥 <a href="https://pahchaan.info/">PAHCHAAN Healthcare</a></h3>
       <i>AI-driven clinic management &amp; analytics system</i>
-      <p><a href="https://pahchaan.info/"><img src="https://img.shields.io/badge/Live%20Site-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site" /></a></p>
       <p>A comprehensive clinic management system that streamlines patient care from registration to medication dispensing, combining clinical workflows with data analysis to track health trends and optimize inventory under strict healthcare security standards.</p>
       <b>Key contributions</b>
       <ul>
